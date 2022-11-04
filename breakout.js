@@ -1,3 +1,5 @@
+//import Phaser from "phaser";
+
 let player, ball, bricks, cursors;
 let openingText, gameOverText, playerWonText, livesText, levelsText, scoreText;
 let gameStarted = false;
